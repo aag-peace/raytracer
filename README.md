@@ -1,10 +1,10 @@
-raytracer
+Raytracer
 =========
 
-This project has two parts:
-1. Loop subdivision
-2. Raytracing
+This project has two parts:<br>
+1. Loop subdivision<br>
+2. Raytracing<br>
 
 
-A basic raytracer with shadows and reflection implemented.
-There is a file naming 'doc.pdf' which contains all the implementation and sample outputs.
+A basic raytracer with shadows and reflection implemented.<br>
+There is a file naming 'doc.pdf' which contains detail about all the implementation and sample outputs.<br>
